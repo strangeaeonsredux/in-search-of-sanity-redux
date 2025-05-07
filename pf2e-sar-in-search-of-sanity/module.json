@@ -11,32 +11,6 @@
     },
     "packs": [
         {
-            "name": "in-search-of-sanity-creatures",
-            "label": "In Search of Sanity Creatures",
-            "path": "./packs/creatures.db",
-            "type": "Actor",
-            "system": "pf2e"
-        },
-        {
-            "name": "in-search-of-sanity-items",
-            "label": "In Search of Sanity Items",
-            "path": "./packs/items.db",
-            "type": "Item",
-            "system": "pf2e"
-        },
-        {
-            "name": "in-search-of-sanity-scenes",
-            "label": "In Search of Sanity Scenes",
-            "path": "./packs/scenes.db",
-            "type": "Scene"
-        },
-        {
-            "name": "in-search-of-sanity-journal-entries",
-            "label": "In Search of Sanity Entries",
-            "path": "./packs/journal-entries.db",
-            "type": "JournalEntry"
-        },
-{
             "name": "in-search-of-sanity-adventure",
             "label": "In Search of Sanity Adventure",
             "path": "./packs/adventure.db",
