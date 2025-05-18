@@ -12,7 +12,7 @@
     "packs": [
         {
             "name": "in-search-of-sanity-adventure",
-            "label": "In Search of Sanity Adventure",
+            "label": "In Search of Sanity",
             "path": "./packs/adventure.db",
             "type": "Adventure",
             "system": "pf2e"
