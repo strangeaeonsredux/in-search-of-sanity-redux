@@ -3,11 +3,9 @@
     "title": "Strange Aeons Redux 1 of 6: In Search of Sanity",
     "description": "Begin Strange Aeons in Pathfinder Second Edition!",
     "version": "1.1.0",
-    "minimumCoreVersion": "10",
-    "compatibleCoreVersion": "12",
-    "compatibility": {
+        "compatibility": {
         "minimum": "10",
-        "verified": "12"
+        "verified": "13"
     },
     "packs": [
         {
